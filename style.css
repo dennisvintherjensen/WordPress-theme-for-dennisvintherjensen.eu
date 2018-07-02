@@ -1010,6 +1010,7 @@ a:hover, a:active {
 
 .entry-content {
   margin-bottom: 1.3em;
+  word-break: break-word;
 }
 
 .entry-content *:last-child {
